@@ -1,0 +1,11 @@
+{
+  "name": "pure-ui-react",
+  "version": "0.0.1",
+  "description": "Pure CSS impmlementation for React",
+  "main": "index.js",
+  "author": {
+    "name": "Pavel Karkh",
+    "email": "pavelkarkh@gmail.com"
+  },
+  "license": "MIT"
+}
